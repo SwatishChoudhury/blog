@@ -2,7 +2,7 @@
 title: "New Blog New Post"
 date: 2019-12-28
 categories:
-  - Blog
+  - General
 tags:
   - first
   - update
